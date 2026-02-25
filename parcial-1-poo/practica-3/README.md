@@ -23,3 +23,5 @@ Cuando se intenta crear un usuario con correo inválido, el sistema lanza una ex
 
 Ejemplo:
 Error: El correo electrónico no tiene un formato válido.
+## Video demostrativo
+](https://youtu.be/JI3R1KaVVXI)
